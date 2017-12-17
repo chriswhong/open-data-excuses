@@ -1,0 +1,38 @@
+[
+  {
+    "path": "not-interesting",
+    "text": "my data is not very interesting",
+    "description": "You think nobody could possibly find your data interesting",
+    "icon": "spinner"
+  },
+  {
+    "path": "people-will-misinterpret",
+    "text": "people will misinterpret my data",
+    "description": "You think people will draw the wrong conclusions from your data",
+    "icon": "lightbulb-o"
+  },
+  {
+    "path": "poor-quality",
+    "text": "my data quality is poor",
+    "description": "You think your data can't be shared because it contains too many mistakes or is not up to date",
+    "icon": "thumbs-down"
+  },
+  {
+    "path": "too-big",
+    "text": "my data is too big",
+    "description": "You think your data are so big that sharing will be difficult or impossible",
+    "icon": "globe"
+  },
+  {
+    "path": "too-complicated",
+    "text": "my data is too complicated",
+    "description": "You think your data is too complicated for anyone else to understand",
+    "icon": "gears"
+  },
+  {
+    "path": "too-many-inquiries",
+    "text": "we will get too many inquiries",
+    "description": "You think if you publish your data, you'll be inundated with questions and problems",
+    "icon": "question"
+  }
+]
