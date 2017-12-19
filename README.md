@@ -1,13 +1,5 @@
-# gatsby-starter-default
-The default Gatsby starter
+# open-data-excuses
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+<p>This is a prototype open data excuses site inspired by <a href="https://yourlogicalfallacyis.com/">yourlogicalfallacyis.com</a>. I thought a site like this could include common open data excuses and their rebuttals, with nice handy urls for each one.</p>
+      <p><a href="https://github.com/chriswhong/open-data-excuses/">Github</a>.  I need help with content & design.  Please consider contributing!  This site was made using the gatsbyjs static site generator.</p>
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
