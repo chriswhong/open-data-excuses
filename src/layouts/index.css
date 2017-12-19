@@ -6,7 +6,7 @@
   padding: 4rem 0;
 }
 
-.excuse-top .fa {
+.excuse-top .fa, .card-body .fa {
   margin-bottom: 2rem;
 }
 
@@ -17,6 +17,33 @@
 .excuse-description {
   font-size: 1.5rem;
 }
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+.card {
+  transition: all .2s
+}
+
+.card:hover {
+  box-shadow: 0 0 1rem rgba(0,0,0,.1);
+  transform: scale(1.04);
+}
+
+.card a {
+  color: #575757;
+
+}
+
+.card a:hover {
+  text-decoration:none;
+}
+
+text-decoration:none;
+
 
 @media (max-width: 800px) {
   .header-text {
@@ -29,5 +56,9 @@
 
   .excuse-description {
     font-size: 1rem;
+  }
+
+  .card-columns {
+    column-count: 2 !important;
   }
 }
